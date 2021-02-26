@@ -50,3 +50,9 @@
     font-size: 0;
     outline-color: var(--gray-line);
 }
+
+@media (max-width: 600px) {
+    .container {
+        width: 80%;
+    }
+}
